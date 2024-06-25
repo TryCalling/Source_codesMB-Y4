@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/iconHome"
+        android:title="@string/icHome"
+        android:icon="@drawable/baseline_home_24"
+        android:enabled="true"/>
+
+    <item android:id="@+id/iconMap"
+        android:title="@string/icMap"
+        android:icon="@drawable/baseline_map_24"
+        android:enabled="true"/>
+
+    <item android:id="@+id/iconMore"
+        android:title="@string/icMore"
+        android:icon="@drawable/baseline_more_horiz_24"
+        android:enabled="true"/>
+
+</menu>

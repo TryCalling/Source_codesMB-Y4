@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TOUSNAAPP</string>
+
+
+<!--    for update text-->
+    <string name="name_introFE">Faculty of Engineering</string>
+    <string name="tousna">TOUSNA</string>
+    <string name="pnhompenh">PNHOM PENH</string>
+    <string name="province">PROVINCE</string>
+    <string name="tour_categories">TOUR CATEGORIES</string>
+    <string name="icHome">Home</string>
+    <string name="icMap">Maps</string>
+    <string name="icMore">More</string>
+
+
+</resources>
